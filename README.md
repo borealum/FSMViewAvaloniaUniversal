@@ -5,6 +5,7 @@ Requirements:
 I'm not copletely sure about system requirements to run it. (I guess you will need .NET 8.0 Runtime or newer?)
 
 Usage:
+0. Just unzip and run FSMExpress.exe
 1. File>Open scene list
 2. Navigate into ...\Blue Prince\BLUE PRINCE_Data\ and click Select Folder
 3. Select scene from list
